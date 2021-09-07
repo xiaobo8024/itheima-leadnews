@@ -1,0 +1,12 @@
+# Project exclude paths
+/itheima-leadnews-api/itheima-leadnews-admin-api/target/
+/itheima-leadnews-api/itheima-leadnews-article-api/target/
+/itheima-leadnews-api/itheima-leadnews-user-api/target/
+/itheima-leadnews-api/itheima-leadnews-wemeida-api/target/
+/itheima-leadnews-common/target/
+/itheima-leadnews-core/itheima-leadnews-core-controller/target/
+/itheima-leadnews-gateway/itheima-leadnews-gateway-admin/target/
+/itheima-leadnews-service/itheima-leadnews-service-admin/target/
+/itheima-leadnews-service/itheima-leadnews-service-article/target/
+/itheima-leadnews-service/itheima-leadnews-service-user/target/
+/itheima-leadnews-service/itheima-leadnews-service-wemedia/target/

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itheima-leadnews-service-wemedia" />
+        <module name="itheima-leadnews-gateway-admin" />
+        <module name="itheima-leadnews-service-admin" />
+        <module name="itheima-leadnews-service-article" />
+        <module name="itheima-leadnews-core-feign" />
+        <module name="itheima-leadnews-common" />
+        <module name="itheima-leadnews-user-api" />
+        <module name="itheima-leadnews-wemeida-api" />
+        <module name="itheima-leadnews-article-api" />
+        <module name="itheima-leadnews-service-user" />
+        <module name="itheima-leadnews-core-controller" />
+        <module name="itheima-leadnews-admin-api" />
+        <module name="itheima-leadnews-common-db" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itheima-leadnews" target="1.8" />
+      <module name="itheima-leadnews-admin-api" target="1.8" />
+      <module name="itheima-leadnews-api" target="1.8" />
+      <module name="itheima-leadnews-article-api" target="1.8" />
+      <module name="itheima-leadnews-common" target="1.8" />
+      <module name="itheima-leadnews-common-db" target="1.8" />
+      <module name="itheima-leadnews-core" target="1.8" />
+      <module name="itheima-leadnews-core-controller" target="1.8" />
+      <module name="itheima-leadnews-core-feign" target="1.8" />
+      <module name="itheima-leadnews-gateway" target="1.8" />
+      <module name="itheima-leadnews-gateway-admin" target="1.8" />
+      <module name="itheima-leadnews-service" target="1.8" />
+      <module name="itheima-leadnews-service-admin" target="1.8" />
+      <module name="itheima-leadnews-service-article" target="1.8" />
+      <module name="itheima-leadnews-service-user" target="1.8" />
+      <module name="itheima-leadnews-service-wemedia" target="1.8" />
+      <module name="itheima-leadnews-user-api" target="1.8" />
+      <module name="itheima-leadnews-wemeida-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="itheima-leadnews-admin-api" options="-parameters" />
+      <module name="itheima-leadnews-article-api" options="-parameters" />
+      <module name="itheima-leadnews-common" options="-parameters" />
+      <module name="itheima-leadnews-common-db" options="-parameters" />
+      <module name="itheima-leadnews-core-controller" options="-parameters" />
+      <module name="itheima-leadnews-core-feign" options="-parameters" />
+      <module name="itheima-leadnews-gateway-admin" options="-parameters" />
+      <module name="itheima-leadnews-service-admin" options="-parameters" />
+      <module name="itheima-leadnews-service-article" options="-parameters" />
+      <module name="itheima-leadnews-service-user" options="-parameters" />
+      <module name="itheima-leadnews-service-wemedia" options="-parameters" />
+      <module name="itheima-leadnews-user-api" options="-parameters" />
+      <module name="itheima-leadnews-wemeida-api" options="-parameters" />
+    </option>
+  </component>
+</project>

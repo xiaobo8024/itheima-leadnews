@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews.iml" filepath="$PROJECT_DIR$/itheima-leadnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-admin-api/itheima-leadnews-admin-api.iml" filepath="$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-admin-api/itheima-leadnews-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-api.iml" filepath="$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-article-api/itheima-leadnews-article-api.iml" filepath="$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-article-api/itheima-leadnews-article-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-common/itheima-leadnews-common.iml" filepath="$PROJECT_DIR$/itheima-leadnews-common/itheima-leadnews-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-common-db/itheima-leadnews-common-db.iml" filepath="$PROJECT_DIR$/itheima-leadnews-common-db/itheima-leadnews-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-core/itheima-leadnews-core.iml" filepath="$PROJECT_DIR$/itheima-leadnews-core/itheima-leadnews-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-core/itheima-leadnews-core-controller/itheima-leadnews-core-controller.iml" filepath="$PROJECT_DIR$/itheima-leadnews-core/itheima-leadnews-core-controller/itheima-leadnews-core-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-core/itheima-leadnews-core-feign/itheima-leadnews-core-feign.iml" filepath="$PROJECT_DIR$/itheima-leadnews-core/itheima-leadnews-core-feign/itheima-leadnews-core-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-gateway/itheima-leadnews-gateway.iml" filepath="$PROJECT_DIR$/itheima-leadnews-gateway/itheima-leadnews-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-gateway/itheima-leadnews-gateway-admin/itheima-leadnews-gateway-admin.iml" filepath="$PROJECT_DIR$/itheima-leadnews-gateway/itheima-leadnews-gateway-admin/itheima-leadnews-gateway-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service.iml" filepath="$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service-admin/itheima-leadnews-service-admin.iml" filepath="$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service-admin/itheima-leadnews-service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service-article/itheima-leadnews-service-article.iml" filepath="$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service-article/itheima-leadnews-service-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service-user/itheima-leadnews-service-user.iml" filepath="$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service-user/itheima-leadnews-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service-wemedia/itheima-leadnews-service-wemedia.iml" filepath="$PROJECT_DIR$/itheima-leadnews-service/itheima-leadnews-service-wemedia/itheima-leadnews-service-wemedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-user-api/itheima-leadnews-user-api.iml" filepath="$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-user-api/itheima-leadnews-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-wemeida-api/itheima-leadnews-wemeida-api.iml" filepath="$PROJECT_DIR$/itheima-leadnews-api/itheima-leadnews-wemeida-api/itheima-leadnews-wemeida-api.iml" />
+    </modules>
+  </component>
+</project>
